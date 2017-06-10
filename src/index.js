@@ -15,8 +15,6 @@ db.once('open', function () {
 
 // ---------------------------------------------------
 
-
-
 app.use(bodyParser.json());
 
 /*
